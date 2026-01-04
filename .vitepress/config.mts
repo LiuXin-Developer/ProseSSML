@@ -34,7 +34,7 @@ export default defineConfig({
           { text: '构建编辑器', link: '/createEditor' },
           { text: '停顿标记 break', link: '/break' },
           { text: '文本类型标记 say-as', link: '/sayAs' },
-          { text: 'SSML和HTML互相转换', link: '/SSMLtoHTML' },
+          { text: 'SSML和HTML互相转换', link: '/SSMLToHTML' },
         ],
       },
     ],
